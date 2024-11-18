@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.title , h3{
+  font-family: cairo !important;
+  color: aqua;
+  text-align: center;
+}
